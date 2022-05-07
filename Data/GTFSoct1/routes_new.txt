@@ -1,0 +1,2 @@
+,route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+0,2-95,0,2,Franklin Av - Riverside Av - U of M - 8th St SE,,3,http://www.metrotransit.org/route/2,,000000
