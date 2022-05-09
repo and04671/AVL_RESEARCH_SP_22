@@ -1,2 +1,0 @@
-Error: Booking: MAR16      Vehicle schedule: MVS-BUS Weekday   06 has at least one trip with an assigned trip pattern that does not exist anymore. You should regenerate the trip patterns for this schedule. The generated files might be invalid.
-Error: Booking: MAR16      Vehicle schedule: MVS-SUB Weekday   02 has at least one trip with an assigned trip pattern that does not exist anymore. You should regenerate the trip patterns for this schedule. The generated files might be invalid.
